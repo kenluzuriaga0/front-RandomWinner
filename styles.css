@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 5%;
+}
+
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.back{
+    margin: 0 auto;
+}
+.title, .numero, .botonGanador{
+    text-align: center;
+    margin-top: 8%;
+}
+.botonGanador{
+    color: red;
+
+}
+
+
+
+
