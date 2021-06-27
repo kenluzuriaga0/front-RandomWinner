@@ -1,15 +1,16 @@
 *{
     margin: 0;
     padding: 0;
-}
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
+}
+body{
+    background: rgb(139, 199, 255);
+}
 .container{
     margin: 5%;
 }
 
-.title{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
 .back{
     margin: 0 auto;
 }
@@ -17,8 +18,13 @@
     text-align: center;
     margin-top: 8%;
 }
+.numero{
+    font-size: 30px;
+}
 .botonGanador{
-    color: red;
+    color: white;
+    padding: 10px;
+    background-color: rgb(0, 11, 110);
 
 }
 
